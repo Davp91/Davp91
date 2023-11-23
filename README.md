@@ -1,4 +1,4 @@
-I'm Dennis A V Pedersen, a developer based in Bergen. I have a passion for Webdesign, AI, programming, games, music, graphic design, and everything else you can do from a computer. 
+I'm Dennis A V Pedersen, a developer, web designer, musician, and what we in Norway might call a digital potato based in Bergen. I have a passion for web design, AI, programming, games, music, graphic design, and everything else you can do from a computer. 
 I love to create and innovate, and I'm always looking for new challenges and opportunities to learn.
 
 - 🔭 I’m currently working on creating my Github repositories.
