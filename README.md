@@ -2,7 +2,7 @@ I'm Dennis A V Pedersen, a developer, web designer, musician, and what we in Nor
 I love to create and innovate, and I'm always looking for new challenges and opportunities to learn.
 
 - 🔭 I’m currently working on creating my Github repositories.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning Angular.
 - 📫 How to reach me: dennisavp91@gmail.com.
 - ⚡ Fun fact: I am a songwriter, and guitarist in a metal band called Tessia.
 
